@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Alvira_Assignment1", "Alvira_Assignment1\", "{6428264E-32CA-470E-B318-DA87A4C7F367}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_53287"
+		Debug.AspNetCompiler.PhysicalPath = "Alvira_Assignment1\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53287\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_53287"
+		Release.AspNetCompiler.PhysicalPath = "Alvira_Assignment1\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53287\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "53287"
+		SlnRelativePath = "Alvira_Assignment1\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6428264E-32CA-470E-B318-DA87A4C7F367}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6428264E-32CA-470E-B318-DA87A4C7F367}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C63E9B3B-E7A2-46D4-86A9-46BCA3FEB593}
+	EndGlobalSection
+EndGlobal
